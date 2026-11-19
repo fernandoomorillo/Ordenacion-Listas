@@ -17,15 +17,12 @@ En esta práctica se han desarrollado los siguientes algoritmos:
 ## Estructura del proyecto
 
 OrdenacionListas/
-│
-├── GenerarDatos.kt
-├── 01_QuickSort.kt
-├── 02_PancakeSort.kt
-├── 03_MergeSort.kt
-├── 04_AlgoritmoLibre.kt
-├── 05_AlgoritmoLibre.kt
-│
-└── README.md
+GenerarDatos.kt
+01_QuickSort.kt
+02_PancakeSort.kt
+03_MergeSort.kt
+04_AlgoritmoLibre.kt
+05_AlgoritmoLibre.kt
 
 ## Generación de datos
 El archivo GenerarDatos se encarga de crear los datos que utilizan los algoritmos:
